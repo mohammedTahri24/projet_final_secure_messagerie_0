@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "from": "alice",
+  "to": "bob",
+  "timestamp": "2025-12-29T10:06:57.345015",
+  "enc_aes_key": "Nd9hR4LIbod5TYQ/HgnPZP7tK8WSmZGkHc79rXBJrI4T7CYxw7Zf0b2HrMO/owKWUXTLbGFA//iK1vl9hHHobi82UFcWEVKFMw39HSaTWx2/MMf1kao4mKdJmsYD3iAgjhgse4f021XixXdo4XEa1W9ozYrOYMjj/RLHOHi6p7+kn9qXtppCWkAlHFVWy+Up2LfcGNP/q8vNlhBy5op1g4zMm6TDDT/huxhgya/Ysg3AAck73KP5B5Wn9RvgcpMrsTsTAwdSDqlzbBvvmkB8FAGFa4OzkS0CWI/x2+H4eh3HtzIt0iYLuh3lJSmqmJVMAUJ+L3nNXST/euK3MmHnQSzS5BLJFYpg8sAkSkSAFP9QSCo0xfV93OaO+67QXxjo2YliGVN/FGWkPv/AE1/1qlF+usDeBZ7RZ5AuW37GwVUaRUhOpPIuZ29lEK17yc+EzwXKYpg47FqlodVTyfo3thEXw2Vymhre9AyY8hhorxHVQNvCp5/ZF3Rwv7gqUjLe",
+  "enc_hmac_key": "hds+W3cmxWsKsobmQ2rP/qOTzJnx1f0NwQ175Z16FNZ2rbcc2S2bQ+ppJyh00WU/Ug8h6xfgX4NbprippKFvtUK0S+8MqNdtteSsD+qsjk0/rRh5xMgMthgJfwfa4/Mw11P5u9TMFO/lhQ8WvIx5Ed4xIcfkdKYHYOcGD2TlAAb2uaM9kAEsQ00aec72GUUHGfMGciCXCKtFQdtZ9B0II90yyY5lF4bUJz6W5Xainl4U/2Z5NACpbEJ/G+GOO+mhnfKyMZnXZzsd1DGHwCyk70hEo+MZkn5euLSYO7O/kfpB6vEBC3e4O5MkRFDWIsQZsEUzMtDErvW2JKAobgmgBsQar0XqkSG13JarvrnMFEL05FIPTS298Ej+FbBDnD3u0aFL2Pwbo5IxdfwBW6g3dG5zfEgzQJqWel7CXr+bFo4MqPNftA7EVwvyf6nid7Uocv0jB2jKRTjD7PcNdFA8EGHFQ2PqU6Lo5EZc2XDge7yqgHOFL8mw5tUd2M1k1IKH",
+  "iv": "KdH2ax4bfWnJ7VXul0GiVg==",
+  "ciphertext": "fvgjQAfQWzQrZopkcrm5cqhiMMDV2/jMXkvC/MbCH1GHCtkRhnLzK89pZzvcRll1",
+  "hmac": "cHwIgstpseG4uhshlxb6BZsRNWthkytgjSwKO4ROvbc=",
+  "sha256_plaintext": "c879f6e9abc2ca9a3c5fe720d304548a460ce4bebc77e3a3760dfef1bc73b9ff",
+  "signature": "EyLCwLg9e2FHyWucpKlWCpmN6BtWclOIY4SfgaBsvlXDzJzNOggdoCNf8O9jTX5WwSwYsRinzbfLzfTEJoAeFZ+xOrxZ8NL03fO5uAD7v6ksFNPVTdHB6fHKVJU8ic2zdjtEXQIacM0qaMfAqfDQgp5yvacSeDRPlQnz19HpBW79RcVT3SxamgDBdB2tBuflrwzY7DHDIrQGETzlbKnCg8EJKq5X3R088btW99U87DZ2SNFFDO9lrWk45KtiIArqoheOL7NpUsWpJms0wq0fFzdL9Pnc7zuipjkFaumcoHcIsOwvJpTBe5kutvMeQiGhJoZmgEh18c+RG50k+GvsIxwV/N59jJaJ61S3smQzhDA1/FDWEATwOyzYCEorjZRV/5Rd0vipuz+A6CV0IYjWcYmSx1NAoawLJSEoopF3HA3ked8WfECnZYYMRNjUVkJTyIwTcasvA5tKgV/Ys7r2qsbgsqfhiiidSzyFAtGC20ULI3e2FQfythxce+YxIn1x",
+  "metadata": {
+    "encryption": "AES-256-CBC",
+    "key_wrapping": "RSA-OAEP-SHA256",
+    "integrity": "HMAC-SHA256",
+    "signed": true,
+    "message_size": 41
+  }
+}

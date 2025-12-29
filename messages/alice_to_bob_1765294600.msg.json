@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "from": "alice",
+  "to": "bob",
+  "timestamp": "2025-12-09T16:36:40.058283",
+  "enc_aes_key": "Zb7EQ9dfph5kamZwlEYBos2xZhe5Ai8p5ZfnRbQpRweYpm/wjwUtl9ZsZIinbuk75HA9oBum4bMKWOrSN8pT7bQX6E/ZZICy8+0TgTVHHtklYadpdL5c6XzwYTQ3rrCN/yfSGQ3qfEg5LD6zFGPQgzxKJ53RsPNPvJ66HrflwdsB6ZeHlz6OWL6zTLopaV7N1wLn3ejuTXpI0zDK9JmwLsrqq3Va/BBBou3vmNsDPyvdpee86X7elGDcZoK4hz1xLq4tpsCBbhZ66EjKhSu92Qy2BmVisnAgBT3/YuzMtunFySe6afkZ4QT1yjAeTFEUFEcJM5QtI5ateU1uGSe6AHkzA+oeIPhMF5TY4a/SdWdmYIva808Cr8JrDU3+L/gNR1B8zuAdeGGsz3hiUqf603Kt3wwC7xLecHCRbE6fOq0KuwbIGwOTme5J8foqde/EEtMGAfkigneUfsGlBWSolr4GH3L9Ua9KdCPLhRdckV9p4NOTJdrRTytg8ZLwvVoU",
+  "nonce": "LEro0h0hh3ss/Edm",
+  "ciphertext": "sYEAbbr5pAD+FYStM9mtUAXQqwT5Qzka0NKxS5UmraE5/XdoMPfMWK5k0mdIk1HOXPdmIbxMEhDJV5yoxGYb",
+  "associated_data": "from:alice;to:bob",
+  "sha256_plaintext": "aa51b2531fbba618d3a3563c498156aa15fc38b8d7caa64a3b1bbcc09f4e34b4",
+  "signature": "YJrK35fwf7IUcf1mvlzVA6sgXiEXFRDEXZVeIa6TlribwQspnJNvZswCqplaDcsKxkv9kh3cQJMhMvpVHRALK+g1tquvQZpHXV831RQmhTZU2oDOtrBFXf40AxiDht3ywAkPiFvZqhbuQ1K6oUhsUMPLmsoZHx4sm8tV4A+nmIrwRlNXNQ05zAUTz0s1I51dxMp1ck24XyUZy3LcIT8uwnEP3KYEh370dwa4V56XyT7gfmS5o66ZgykggmsrXBtiXfzKQaz7Cha+PMvteRACRMEWMn2iCnqypvMFVqb+n1vgWGZ8TFjyn2cqek7FsDDxWAW9esmHVBp7CeVON4R6x2Ui749ukv+1+iYUiPjvxMgIBx2u6RoGDMLgEtcK6KBrBEsAEs4LmRuexVpPOorYfQoXhfXigHEkClLktgrLVnchQD9attWwaGqkDqJU6Qh8+4Ll2AzygPNbvHnY0Hqn5ztrOA9Uz2smWgRfT656M9WIJaJk3Tvc2rTsPZ349VXb",
+  "metadata": {
+    "encryption": "AES-256-GCM",
+    "key_wrapping": "RSA-OAEP-SHA256",
+    "signed": true,
+    "message_size": 47
+  }
+}
